@@ -6,3 +6,10 @@ Trainees preparing for the ITS Python exam should be able to recognize and write
 
 GMetrix practice exams are designed to expose trainees to hands-on experience with the Python programming language, features, capabilities, writing, debugging, and maintaining well-formed, well documented Python code.
 
+## Topics / Objectives
+- Operations using Data Types and Operators (20-25%)
+- Flow Control with Decisions and Loops (25-30%)
+- Input and Output Operations (20-25%)
+- Code Documentation and Structure (15-20%)
+- Troubleshooting and Error Handling (5-10%)
+- Operations using Modules and Tools (1-5%)
