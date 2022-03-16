@@ -1,4 +1,4 @@
-# ITS Python Certification Study Guide
+# IT Specialist Certification Python Study Guide
 
 This repo is in development. It is used to keep resources, course references, 
 and code examples while preparing for the Information Technology Specialist (ITS)
