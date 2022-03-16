@@ -19,6 +19,12 @@ with the Python programming language, features, capabilities, writing, debugging
 - Troubleshooting and Error Handling (5-10%)
 - Operations using Modules and Tools (1-5%)
 
+## Types of Questions
+- Drag and Drop
+- Dropdown Arrow Hotspot
+- Check or Pick / Question
+- Yes or No
+
 ## Take Note
 - Passing score is 700/1000 (70%)
 - 50 minutes
