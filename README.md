@@ -20,6 +20,7 @@ with the Python programming language, features, capabilities, writing, debugging
 - Operations using Modules and Tools (1-5%)
 
 ## Types of Questions
+Majority of questions are answered by clicking on buttons. A few like an instance of only one may come out as input box.
 - Drag and Drop
 - Dropdown Arrow Hotspot
 - Check or Pick / Question
