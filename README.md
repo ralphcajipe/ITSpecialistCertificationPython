@@ -34,3 +34,5 @@ Majority of questions are answered by clicking on buttons. A few like an instanc
 - Questions have the same or similar concepts to ITS Gmetrix and MTA pdf reviewers.
 - Uderstand the topics / objectives.
 - If question feels like it will take you too long, Mark as Review first. Then go back to the question in order to not waste time.
+
+You can pass this! :)
