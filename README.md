@@ -33,6 +33,6 @@ Majority of questions are answered by clicking on buttons. A few like an instanc
 - Questions are a mixed of MTA: Introduction to Programming Using Python, ITS Python GMetrix, updated questions (keywords, rephrase, new ones).
 - Questions have the same or similar concepts to ITS Gmetrix and MTA pdf reviewers.
 - Uderstand the topics / objectives.
-- If question feels like it will take you too long, Mark as Review first. Then go back to the question in order to not waste time.
+- If question feels like it will take you too long, do not panic and Mark as Review first. Then go back to the question in order to maximize time.
 
 You can pass this! :)
