@@ -19,6 +19,13 @@ with the Python programming language, features, capabilities, writing, debugging
 - Troubleshooting and Error Handling (5-10%) Easy
 - Operations using Modules and Tools (1-5%) Medium
 
+ITS Python References
+- https://certiport.filecamp.com/s/ITS_OD_303_Python.pdf/fi
+
+MTA Python References
+- https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/
+- https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLr
+
 ## Types of Questions
 Majority of questions are answered by clicking on buttons. A few like an instance of only one may come out as input box.
 - Drag and Drop
